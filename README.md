@@ -104,11 +104,11 @@ Model Danych (Schema) korzysta ze skrupulatnie skonfigurowanego mapowania po str
   ### Formularz zamówień usług sprzątania
   ![Order Form](screenshots/2.png)
 
-  ### Strona zarządzania produktami przez administratora
-  ![Product Management](screenshots/3.png)
-
   ### Chat z klientem
-  ![Chat](screenshots/4.png)
+  ![Chat](screenshots/3.png)
+
+  ### Panel klienta
+  ![Client Dashboard](screenshots/4.png)
 
   ### Panel administratora
   ![Admin Dashboard](screenshots/5.png)
@@ -116,5 +116,5 @@ Model Danych (Schema) korzysta ze skrupulatnie skonfigurowanego mapowania po str
   ![Admin Dashboard](screenshots/6.png)
 
   ### Panel sprzątacza
-  ![Admin Dashboard](screenshots/7.png)
+  ![Cleaner Dashboar](screenshots/7.png)
 </details>
