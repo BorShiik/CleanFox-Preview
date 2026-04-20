@@ -10,7 +10,7 @@
 > **Produkcyjna Aplikacja Full-Stack (MERN) / Portfolio Projektowe**  
 > CleanFox to w 100% samodzielnie zaprojektowana i zaprogramowana platforma typu _two-sided marketplace_, łącząca osoby poszukujące usług domowych i biurowych (B2C & B2B) z profesjonalnymi wykonawcami. Projekt rozwiązuje realne problemy rynku usług, eliminując asymetrię informacji poprzez cyfryzację rezerwacji, natychmiastowe i rzetelne wyceny (dynamiczny kalkulator) oraz przejrzysty proces zarządzania zamówieniami.
 > 
-> 🔗 **Adres produkcyjny:**
+> 🔗 **Adres produkcyjny:** https://clean-fox.pl/
 
 *Uwaga: Ten wgląd do repozytorium prezentuje zakres logiki biznesowej i architektury projektu stworzonego ze względów demonstracyjnych i aplikacyjnych.*
 
